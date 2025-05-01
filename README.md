@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohammad yasir abbasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad yasir abbasi" height="30" width="40" /></a>
+<a href="linkedin.com/in/mohammad-yasir-abbasi-27b918259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad yasir abbasi" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sit1si22is051" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sit1si22is051" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yasir_6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yasir_6" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/yasir1sic5jc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yasir1sic5jc" height="30" width="40" /></a>

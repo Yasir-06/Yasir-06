@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Major Project on Edge computing**
 
-- 🌱 I’m currently learning **Computer Networks, Big Data Analysis and Generative AI**
+- 🌱 I’m currently learning **Computer Networks, Big Data Analytics and Generative AI**
 
 - 👯 I’m looking to collaborate on **AI/ML related projects**
 
